@@ -3,7 +3,7 @@
 
  ## Projects
  - [Pizza Menu](https://github.com/Jose-Hernandez-Jr/JavaScript-Project/tree/main/Pizza_Project)
- - [Tic Tac Toe]()
+ - [Tic Tac Toe](https://github.com/Jose-Hernandez-Jr/Tic_Tac_Toe)
  - [Calculator](https://github.com/Jose-Hernandez-Jr/JavaScript-Project/blob/main/calculator.html)
 
    ## Pizza Menu
